@@ -18,6 +18,8 @@ public interface UserService {
 }
 ```
 
+<!--more-->
+
 And the `User` class defined as this:
 
 ```java
