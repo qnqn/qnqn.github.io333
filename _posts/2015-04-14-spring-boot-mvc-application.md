@@ -1,3 +1,8 @@
+---
+layout: post
+title: Spring Boot MVC application
+tags: spring spring-boot spring-mvc
+---
 In the [last article](http://kielczewski.eu/2014/04/developing-restful-web-service-with-spring-boot/) I showed how the RESTful web service could be implemented using [Spring Boot](http://projects.spring.io/spring-boot/). In the following I'll make a more classical MVC application out of it, meaning real and pure, CSS-less, HTML form eye-candy.
 
 Since there is not much difference between this and previous RESTful app, I'll focus only on what needs to be changed. And as usual, there is a [source code](https://github.com/bkielczewski/example-spring-boot-mvc) for you to play around on GitHub, and if you want to follow the changes step-by-step, here's the [source code](https://github.com/bkielczewski/example-spring-boot-rest) for the RESTful web service from the previous article. 
